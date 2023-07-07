@@ -1,7 +1,7 @@
 {
   "name": "jsaqa_3_3",
   "version": "1.0.0",
-  "description": "",
+  "description": "Любые вопросы по решению задач задавайте в чате учебной группы.",
   "main": "index.js",
   "scripts": {
     "test": "jest"
@@ -11,6 +11,6 @@
   "dependencies": {
     "jest": "^27.3.1",
     "jest-puppeteer": "^6.0.0",
-    "puppeteer": "^13.3.2"
+    "puppeteer": "^13.7.0"
   }
 }
